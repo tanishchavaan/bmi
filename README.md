@@ -1,11 +1,11 @@
 # BMI (JAVA)
 
-This BMI Calculator is a simple Java console application that takes user input for age, gender, weight, and height, then calculates and displays their Body Mass Index (BMI). Based on the BMI value, the program provides personalized health feedback with fun emojis to keep it engaging! 🏋️‍♂️🍏
+This BMI Calculator is a simple Java console application that takes user input for age, gender, weight, and height, then calculates and displays their Body Mass Index (BMI). Based on the BMI value, the program provides personalized health feedback with fun emojis to keep it engaging! 🏋️‍♂️🍏<br>
 
-Features:
-✅ Accepts user input for age, gender, weight (kg), and height (cm).
-✅ Converts height from centimeters to meters for correct BMI calculation.
-✅ Uses the BMI formula:
+Features:<br>
+✅ Accepts user input for age, gender, weight (kg), and height (cm).<br>
+✅ Converts height from centimeters to meters for correct BMI calculation.<br>
+✅ Uses the BMI formula:<br>
 
 𝐵
 𝑀
