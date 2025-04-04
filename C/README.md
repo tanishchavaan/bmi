@@ -1,28 +1,22 @@
-BMI (Body Mass Index) Calculation in C
-BMI (Body Mass Index) is a value derived from the mass (weight) and height of a person. It is used to categorize individuals into different weight status groups, such as underweight, normal weight, overweight, or obese.
+# 🧮 BMI Calculator in C
 
-Formula for BMI
-<br>
-BMI=
-weight (kg)/
-height (m)^
-2
+This is a simple and lightweight **Body Mass Index (BMI)** calculator written in pure **C language**. It's a console-based app that takes your **weight and height** as input and tells you your BMI category 💪.
 
-​
- 
-Where:
+---
 
-Weight is in kilograms (kg).
+## 🧠 What is BMI?
 
-Height is in meters (m).
+**BMI (Body Mass Index)** is a number derived from your **weight (kg)** and **height (m²)**.
 
-BMI Categories
-BMI Value	   Category<br>
-< 18.5	    Underweight<br>
-18.5 - 24.9	    Normal weight<br>
-25.0 - 29.9	    Overweight<br>
-≥ 30.0    	Obese<br>
+**Formula:**
 
-Time Complexity & Space Complexity<br>
-✅ Time Complexity: O(1) (Constant time calculations)<br>
-✅ Space Complexity: O(1) (Only a few variables are used)<br>
+**BMI Categories:**
+- 🔵 Below 18.5 → Underweight
+- 🟢 18.5 – 24.9 → Normal
+- 🟠 25.0 – 29.9 → Overweight
+- 🔴 30.0 and above → Obese
+
+---
+
+## 📂 File Structure
+
