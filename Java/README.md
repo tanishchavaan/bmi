@@ -1,40 +1,21 @@
+# ☕ BMI Calculator in Java
 
-# BMI (JAVA)
+A clean and simple **Body Mass Index (BMI)** calculator built using **Java**. This console-based program asks for your height and weight, calculates your BMI, and tells you which category you fall under 💪.
 
-This BMI Calculator is a simple Java console application that takes user input for age, gender, weight, and height, then calculates and displays their Body Mass Index (BMI). Based on the BMI value, the program provides personalized health feedback with fun emojis to keep it engaging! 🏋️‍♂️🍏<br>
+---
 
-Features:<br>
-✅ Accepts user input for age, gender, weight (kg), and height (cm).<br>
-✅ Converts height from centimeters to meters for correct BMI calculation.<br>
-✅ Uses the BMI formula:<br>
+## 🔍 What is BMI?
 
-𝐵
-𝑀
-𝐼
-=
-weight (kg)
-height (m)
-2
-BMI=
-weight(kg)/
-height^2(m) 
+**BMI** = weight (kg) / height² (m²)  
+It helps determine if you're **underweight**, **normal**, **overweight**, or **obese**.
 
- 
-✅ Categorizes BMI into Underweight, Healthy, Overweight, and Obese.<br>
-✅ Displays motivational health tips based on BMI.<br>
-✅ User-friendly & interactive, making it easy to use for beginners.<br>
+---
 
-How to Use<br>
-1️⃣ Run the program in a Java environment.<br>
-2️⃣ Enter age, gender, weight, and height when prompted.<br>
-3️⃣ Get your BMI value instantly along with a health recommendation.<br>
+## 📂 File Structure
 
+Enter your weight in kg: 68
+Enter your height in meters: 1.72
 
-![image](https://github.com/user-attachments/assets/8ebfacba-9971-4573-a203-c505ec4e7d08)
+Your BMI is: 22.99
+You are in the Normal weight range ✅
 
-Why Use This?<br>
-💡 Quick & easy BMI calculation.<br>
-💡 Beginner-friendly Java practice for input handling, calculations, and conditionals.<br>
-💡 Fun and interactive experience with emoji-based feedback.<br>
-
-🚀 Ready to check your BMI? Run the program now! 🤖
