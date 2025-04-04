@@ -1,28 +1,32 @@
-BMI Calculator 🏋️‍♂️<br>
-A simple Body Mass Index (BMI) Calculator built using Python. This script allows users to input their weight and height, then calculates their BMI and categorizes it based on standard BMI classifications.<br>
 
-🚀 Features<br>
-✅ User-friendly CLI interface<br>
-✅ Supports both Metric (kg, meters) & Imperial (lbs, inches) units<br>
-✅ Provides BMI classification (Underweight, Normal, Overweight, Obese)<br>
-✅ Error handling for invalid inputs<br>
+---
 
-📊 BMI Categories<br>
+## 🐍 `README.md` — **BMI Calculator in Python**
 
-BMI Range	Category<br>
+```markdown
+# 🐍 BMI Calculator in Python
 
-<18.5	        Underweight<br>
-18.5 – 24.9 	Normal Weight<br>
-25 – 29.9	    Overweight<br>
-30+          	Obese<br>
+A lightweight and beginner-friendly **BMI Calculator** script written in **Python**. Run it in the terminal, enter your weight and height, and it instantly tells your BMI and category!
 
-🛠️ Technologies Used<br>
+---
 
-Python 3.x<br>
+## 🔍 What is BMI?
 
-🎯 Future Improvements<br>
-Add a GUI version using Tkinter<br>
+BMI = weight (kg) / (height * height)
 
-Web-based version with Flask/Django<br>
+Categories:
+- < 18.5 → Underweight
+- 18.5 – 24.9 → Normal ✅
+- 25.0 – 29.9 → Overweight ⚠️
+- ≥ 30 → Obese 🚨
 
-Integration with Health APIs for better recommendations<br>
+---
+
+## 📂 File Structure
+
+Enter your weight in kg: 75
+Enter your height in meters: 1.80
+
+Your BMI is: 23.15
+You are in the Normal weight range ✅
+
