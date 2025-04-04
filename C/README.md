@@ -17,8 +17,12 @@ Weight is in kilograms (kg).
 Height is in meters (m).
 
 BMI Categories
-BMI Value	Category<br>
-< 18.5	 Underweight<br>
-18.5 - 24.9	 Normal weight<br>
-25.0 - 29.9	 Overweight<br>
-≥ 30.0 	Obese<br>
+BMI Value	   Category<br>
+< 18.5	    Underweight<br>
+18.5 - 24.9	    Normal weight<br>
+25.0 - 29.9	    Overweight<br>
+≥ 30.0    	Obese<br>
+
+Time Complexity & Space Complexity<br>
+✅ Time Complexity: O(1) (Constant time calculations)<br>
+✅ Space Complexity: O(1) (Only a few variables are used)<br>
