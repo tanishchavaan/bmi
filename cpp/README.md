@@ -37,3 +37,6 @@ A simple and beginner-friendly **BMI (Body Mass Index) Calculator** built using 
 git clone https://github.com/your-username/bmi-calculator-cpp.git
 cd bmi-calculator-cpp
 
+![image](https://github.com/user-attachments/assets/37b237f8-401f-4df5-b703-739ea579643b)
+
+
