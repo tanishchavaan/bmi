@@ -20,3 +20,4 @@ This is a simple and lightweight **Body Mass Index (BMI)** calculator written in
 
 ## 📂 File Structure
 
+![image](https://github.com/user-attachments/assets/c0a55850-a54c-4c4b-b08c-b9ccff13a8c4)
