@@ -19,3 +19,4 @@ Enter your height in meters: 1.72
 Your BMI is: 22.99
 You are in the Normal weight range ✅
 
+![image](https://github.com/user-attachments/assets/3697e8bc-0260-432b-a48d-fe0759731c44)
