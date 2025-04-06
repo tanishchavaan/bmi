@@ -25,4 +25,5 @@ This is a simple yet stylish **BMI (Body Mass Index)** calculator built using **
 
 ```text
 BMI = weight (kg) / [height (m)]²
+![image](https://github.com/user-attachments/assets/32ebc449-c9b6-4a90-ae0b-79fe1796995f)
 
