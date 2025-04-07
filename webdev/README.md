@@ -14,32 +14,4 @@ A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML,
 
 ---
 
-## 🚀 Demo
-
-[Live Demo](https://your-demo-link.com) — *Add link if hosted*
-
----
-
-## 📸 Preview
-
-![BMI Calculator Screenshot](./preview.png)  
-*Add a screenshot of your app here*
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-
----
-
-## 📦 Installation
-
-Clone the repo and open the `index.html` file in your browser:
-
-```bash
-git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator
-
+![image](https://github.com/user-attachments/assets/202eb7f0-992a-437a-9db0-d8fd9b065e8d)
