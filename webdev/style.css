@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+input, select {
+    padding: 10px;
+    flex: 1;
+    margin: 5px;
+}
+.small-select {
+    width: 60px;
+    padding: 5px;
+}
+button {
+    padding: 10px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+canvas {
+    margin-top: 20px;
+}
+.result {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
+h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
