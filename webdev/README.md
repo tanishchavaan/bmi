@@ -1,6 +1,6 @@
 # 🧮 BMI Calculator App
 
-A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**. Input your height and weight, hit calculate, and find out your BMI along with a health category.
+A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**. Input your age , gender , height and weight, hit calculate, and find out your BMI along with a health category.
 
 ---
 
