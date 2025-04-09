@@ -33,8 +33,5 @@ It's a general indicator of body fat based on your weight and height.
 | `Dart`   | Console-based app, Flutter-friendly logic |
 | `HTML/CSS/JS` | Stylish browser-based BMI calculator with responsive UI |
 
----
-
-## 📁 Folder Structure
 
 
