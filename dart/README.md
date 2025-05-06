@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator App (Flutter + Dart)
+# 🧮 BMI Calculator App (Dart)
 
 This is a simple yet stylish **BMI (Body Mass Index)** calculator built using **Flutter** and **Dart**. The app lets you input your height and weight and calculates your BMI instantly — giving you an idea of whether you’re underweight, normal, overweight, or obese.
 
